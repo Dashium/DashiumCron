@@ -24,7 +24,7 @@
         "cron": {
             "0 12 * * *": {
                 "cmd": "bash",
-                "file": "./DashiumCron/update.sh",
+                "file": "./DashiumCron/setup/update.sh",
                 "arg": "",
                 "active": true,
                 "infos": {
