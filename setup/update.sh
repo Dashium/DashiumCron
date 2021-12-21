@@ -1,6 +1,8 @@
 sudo apt update
 sudo apt upgrade
 
+cd /DashiumOS/DashiumCron
+
 git pull
 
 sudo apt-get install curl

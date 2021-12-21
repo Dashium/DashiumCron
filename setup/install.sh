@@ -1,5 +1,4 @@
-sudo apt-get install curl
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+cd /DashiumOS/DashiumCron
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 nvm install v16.13.0
